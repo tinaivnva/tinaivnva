@@ -1,4 +1,3 @@
-<img align="center" width="1000" height="28" src="https://github.com/tinaivnva/tinaivnva/assets/128318587/dc7efae9-b93d-4abf-bbb8-d5da66534dc8">
 <h1 align="center">Hi, I'm Tina Ivanova</h1>
 <h3 align="center">A student from Bulgaria and a programming-learning enthusiast.</h3>
 <img align="right" alt="Coding" width="380" src="https://github.com/tinaivnva/tinaivnva/assets/128318587/da5e33cf-69d4-4725-9dbb-b0ad1061522c">
@@ -13,7 +12,7 @@
 <a href="https://discord.gg/tinaivnva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tinaivnva" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I have used:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -46,5 +45,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a >
 </p>
-
-<img align="center" width="1000" height="28" src="https://github.com/tinaivnva/tinaivnva/assets/128318587/dc7efae9-b93d-4abf-bbb8-d5da66534dc8">

@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Tina Ivanova</h2>
 <h3 align="center">A student from Bulgaria and a programming-learning enthusiast.</h3>
-/*<img align="right" alt="Coding" width="380" src="[https://github.com/tinaivnva/tinaivnva/assets/128318587/da5e33cf-69d4-4725-9dbb-b0ad1061522c](https://i.redd.it/fa7yzfkz14u71.gif)">*/
+
 
 - 🌱 I’m currently learning **C#** & **C++**
 
